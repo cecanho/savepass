@@ -1,4 +1,4 @@
-#SAVEPASS
+# SAVEPASS
 <p>
 Já pensou em manter suas senhas criptografadas e salvas em um banco de dados para futuras consultas? Este é o objetivo deste simples programa em PHP/MySQL.
 </p>
@@ -27,8 +27,8 @@ Requisitos do sistema:
 <code>  `senha` varchar(32) DEFAULT NULL,</code></br>
 <code>  PRIMARY KEY (`id`)</code></br>
 <code>) ENGINE=InnoDB AUTO_INCREMENT=29 DEFAULT CHARSET=utf8;</code>
-<h3><Sobre></h3>
+<h3>Sobre</h3>
 Professor Cristiano José Cecanho é formado em Sistemas de Informação (2004) pelas faculdades Claretianas, especialista em Tecnologias e Educação a Distância, programador em linguagens como JAVA, PHP, PASCAL, C, C++, Android, com conhecimentos em SQL para bancos de dados como MySQL, MS SQL Server e Firebird.
-<h3><Vídeo de apoio/apresentação></h3>
+<h3>Vídeo de apoio/apresentação</h3>
 <a href="https://www.youtube.com/user/crispdg">Prof. Cristiano José Cecanho</a>
 
